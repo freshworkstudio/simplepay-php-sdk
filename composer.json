@@ -1,0 +1,13 @@
+{
+    "name": "simplepay/php-sdk",
+    "description": "Simplepay Integration SDK",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gonzalo De Spirito",
+            "email": "gonzalo@de-spirito.cl"
+        }
+    ],
+    "require": {}
+}
