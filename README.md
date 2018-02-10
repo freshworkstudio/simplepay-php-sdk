@@ -6,6 +6,10 @@ Librería para la integración de SimplePay. Actualmente solo se soporta el pago
 ```bash
 composer require simplepay/php-sdk
 ```
+ó
+```bash
+composer require simplepay/php-sdk:dev-master
+```
 
 
 ## Getting Started
