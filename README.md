@@ -4,7 +4,7 @@ Librería para la integración de SimplePay. Actualmente solo se soporta el pago
 
 # Installation
 ```bash
-composer require freshwork/simplepay-sdk
+composer require simplepay/php-sdk
 ```
 
 
