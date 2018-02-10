@@ -9,5 +9,12 @@
             "email": "gonzalo@de-spirito.cl"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "SimplePay\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    }
 }
